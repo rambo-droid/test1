@@ -15,7 +15,7 @@
     "RSSI(rx signal strength indicator)": "",
     "SNR(signal noise ratio)": "",
     "Temperature - DS (C°)__1": "",
-    "Temperature - SHT (C°)__1": "",
+    "Temperature - SHT (C°)__1": ""
   },
   {
     "Timestamp": "3/29/2022 11:27:17",
@@ -32,7 +32,7 @@
     "RSSI(rx signal strength indicator)": "",
     "SNR(signal noise ratio)": "",
     "Temperature - DS (C°)__1": "",
-    "Temperature - SHT (C°)__1": "",
+    "Temperature - SHT (C°)__1": ""
   },
   {
     "Timestamp": "3/29/2022 13:34:39",
@@ -49,7 +49,7 @@
     "RSSI(rx signal strength indicator)": "",
     "SNR(signal noise ratio)": "",
     "Temperature - DS (C°)__1": "",
-    "Temperature - SHT (C°)__1": "",
+    "Temperature - SHT (C°)__1": ""
   },
   {
     "Timestamp": "3/29/2022 19:14:22",
@@ -66,7 +66,7 @@
     "RSSI(rx signal strength indicator)": "",
     "SNR(signal noise ratio)": "",
     "Temperature - DS (C°)__1": "",
-    "Temperature - SHT (C°)__1": "",
+    "Temperature - SHT (C°)__1": ""
   },
   {
     "Timestamp": "3/29/2022 20:14:22",
@@ -83,7 +83,7 @@
     "RSSI(rx signal strength indicator)": "",
     "SNR(signal noise ratio)": "",
     "Temperature - DS (C°)__1": "",
-    "Temperature - SHT (C°)__1": "",
+    "Temperature - SHT (C°)__1": ""
   },
   {
     "Timestamp": "3/29/2022 21:34:22",
@@ -100,7 +100,7 @@
     "RSSI(rx signal strength indicator)": "",
     "SNR(signal noise ratio)": "",
     "Temperature - DS (C°)__1": "",
-    "Temperature - SHT (C°)__1": "",
+    "Temperature - SHT (C°)__1": ""
   },
   {
     "Timestamp": "3/29/2022 23:14:22",
@@ -117,7 +117,7 @@
     "RSSI(rx signal strength indicator)": "",
     "SNR(signal noise ratio)": "",
     "Temperature - DS (C°)__1": "",
-    "Temperature - SHT (C°)__1": "",
+    "Temperature - SHT (C°)__1": ""
   },
   {
     "Timestamp": "3/30/2022 3:14:22",
@@ -134,6 +134,6 @@
     "RSSI(rx signal strength indicator)": "",
     "SNR(signal noise ratio)": "",
     "Temperature - DS (C°)__1": "",
-    "Temperature - SHT (C°)__1": "",
+    "Temperature - SHT (C°)__1": ""
   }
 ]
