@@ -1,21 +1,13 @@
 {
  "data": [
+  [
   {
     "Timestamp": "3/29/2022 9:04:52",
     "Device": "",
     "Battery": 3.032,
     "Relative Humidity": 52.8,
     "Temperature - SHT (C°)": 22.18,
-    "Temperature - DS (C°)": 22.82,
-    "Temperature - SHT (F°)": "",
-    "Temperature - DS (F°)": "",
-    "Hotspot Name": "",
-    "Hotspot Latitude": "",
-    "Hotspot Longitude": "",
-    "RSSI(rx signal strength indicator)": "",
-    "SNR(signal noise ratio)": "",
-    "Temperature - DS (C°)__1": "",
-    "Temperature - SHT (C°)__1": ""
+    "Temperature - DS (C°)": 22.82
   },
   {
     "Timestamp": "3/29/2022 11:27:17",
@@ -23,16 +15,7 @@
     "Battery": 3.03,
     "Relative Humidity": 60.7,
     "Temperature - SHT (C°)": 23.93,
-    "Temperature - DS (C°)": 23.87,
-    "Temperature - SHT (F°)": "",
-    "Temperature - DS (F°)": "",
-    "Hotspot Name": "",
-    "Hotspot Latitude": "",
-    "Hotspot Longitude": "",
-    "RSSI(rx signal strength indicator)": "",
-    "SNR(signal noise ratio)": "",
-    "Temperature - DS (C°)__1": "",
-    "Temperature - SHT (C°)__1": ""
+    "Temperature - DS (C°)": 23.87
   },
   {
     "Timestamp": "3/29/2022 13:34:39",
@@ -40,16 +23,7 @@
     "Battery": 3.028,
     "Relative Humidity": 52.4,
     "Temperature - SHT (C°)": 23.37,
-    "Temperature - DS (C°)": 24.99,
-    "Temperature - SHT (F°)": "",
-    "Temperature - DS (F°)": "",
-    "Hotspot Name": "",
-    "Hotspot Latitude": "",
-    "Hotspot Longitude": "",
-    "RSSI(rx signal strength indicator)": "",
-    "SNR(signal noise ratio)": "",
-    "Temperature - DS (C°)__1": "",
-    "Temperature - SHT (C°)__1": ""
+    "Temperature - DS (C°)": 24.99
   },
   {
     "Timestamp": "3/29/2022 19:14:22",
@@ -57,16 +31,7 @@
     "Battery": 3.034,
     "Relative Humidity": 55.2,
     "Temperature - SHT (C°)": 23.93,
-    "Temperature - DS (C°)": 24.4,
-    "Temperature - SHT (F°)": "",
-    "Temperature - DS (F°)": "",
-    "Hotspot Name": "",
-    "Hotspot Latitude": "",
-    "Hotspot Longitude": "",
-    "RSSI(rx signal strength indicator)": "",
-    "SNR(signal noise ratio)": "",
-    "Temperature - DS (C°)__1": "",
-    "Temperature - SHT (C°)__1": ""
+    "Temperature - DS (C°)": 24.4
   },
   {
     "Timestamp": "3/29/2022 20:14:22",
@@ -74,16 +39,7 @@
     "Battery": 3.034,
     "Relative Humidity": 56.5,
     "Temperature - SHT (C°)": 23.68,
-    "Temperature - DS (C°)": 24.13,
-    "Temperature - SHT (F°)": "",
-    "Temperature - DS (F°)": "",
-    "Hotspot Name": "",
-    "Hotspot Latitude": "",
-    "Hotspot Longitude": "",
-    "RSSI(rx signal strength indicator)": "",
-    "SNR(signal noise ratio)": "",
-    "Temperature - DS (C°)__1": "",
-    "Temperature - SHT (C°)__1": ""
+    "Temperature - DS (C°)": 24.13
   },
   {
     "Timestamp": "3/29/2022 21:34:22",
@@ -91,16 +47,7 @@
     "Battery": 3.034,
     "Relative Humidity": 57,
     "Temperature - SHT (C°)": 23.25,
-    "Temperature - DS (C°)": 23.83,
-    "Temperature - SHT (F°)": "",
-    "Temperature - DS (F°)": "",
-    "Hotspot Name": "",
-    "Hotspot Latitude": "",
-    "Hotspot Longitude": "",
-    "RSSI(rx signal strength indicator)": "",
-    "SNR(signal noise ratio)": "",
-    "Temperature - DS (C°)__1": "",
-    "Temperature - SHT (C°)__1": ""
+    "Temperature - DS (C°)": 23.83
   },
   {
     "Timestamp": "3/29/2022 23:14:22",
@@ -108,16 +55,7 @@
     "Battery": 3.034,
     "Relative Humidity": 57.5,
     "Temperature - SHT (C°)": 22.93,
-    "Temperature - DS (C°)": 23.48,
-    "Temperature - SHT (F°)": "",
-    "Temperature - DS (F°)": "",
-    "Hotspot Name": "",
-    "Hotspot Latitude": "",
-    "Hotspot Longitude": "",
-    "RSSI(rx signal strength indicator)": "",
-    "SNR(signal noise ratio)": "",
-    "Temperature - DS (C°)__1": "",
-    "Temperature - SHT (C°)__1": ""
+    "Temperature - DS (C°)": 23.48
   },
   {
     "Timestamp": "3/30/2022 3:14:22",
@@ -125,15 +63,87 @@
     "Battery": 3.034,
     "Relative Humidity": 60.8,
     "Temperature - SHT (C°)": 22.25,
-    "Temperature - DS (C°)": 22.72,
-    "Temperature - SHT (F°)": "",
-    "Temperature - DS (F°)": "",
-    "Hotspot Name": "",
-    "Hotspot Latitude": "",
-    "Hotspot Longitude": "",
-    "RSSI(rx signal strength indicator)": "",
-    "SNR(signal noise ratio)": "",
-    "Temperature - DS (C°)__1": "",
-    "Temperature - SHT (C°)__1": ""
+    "Temperature - DS (C°)": 22.72
+  },
+  {
+    "Timestamp": "3/30/2022 3:54:23",
+    "Device": "",
+    "Battery": 3.036,
+    "Relative Humidity": 60.7,
+    "Temperature - SHT (C°)": 21.81,
+    "Temperature - DS (C°)": 22.42
+  },
+  {
+    "Timestamp": "3/30/2022 7:34:22",
+    "Device": "",
+    "Battery": 3.036,
+    "Relative Humidity": 61.1,
+    "Temperature - SHT (C°)": 21.12,
+    "Temperature - DS (C°)": 21.59
+  },
+  {
+    "Timestamp": "3/30/2022 11:38:01",
+    "Device": "",
+    "Battery": 3.034,
+    "Relative Humidity": 52.1,
+    "Temperature - SHT (C°)": 21,
+    "Temperature - DS (C°)": 21.51
+  },
+  {
+    "Timestamp": "3/30/2022 14:18:01",
+    "Device": "",
+    "Battery": 3.036,
+    "Relative Humidity": 48.6,
+    "Temperature - SHT (C°)": 20.25,
+    "Temperature - DS (C°)": 20.6
+  },
+  {
+    "Timestamp": "3/30/2022 17:33:36",
+    "Device": "",
+    "Battery": 3.032,
+    "Relative Humidity": 43.2,
+    "Temperature - SHT (C°)": 20.56,
+    "Temperature - DS (C°)": 24.78
+  },
+  {
+    "Timestamp": "3/30/2022 20:53:37",
+    "Device": "",
+    "Battery": 3.034,
+    "Relative Humidity": 53.1,
+    "Temperature - SHT (C°)": 19.87,
+    "Temperature - DS (C°)": 19.81
+  },
+  {
+    "Timestamp": "3/30/2022 21:13:35",
+    "Device": "",
+    "Battery": 3.034,
+    "Relative Humidity": 53.2,
+    "Temperature - SHT (C°)": 19.75,
+    "Temperature - DS (C°)": 19.68
+  },
+  {
+    "Timestamp": "3/31/2022 8:22:54",
+    "Device": "",
+    "Battery": 3.03,
+    "Relative Humidity": 51.5,
+    "Temperature - SHT (C°)": 19.37,
+    "Temperature - DS (C°)": 19.48
+  },
+  {
+    "Timestamp": "3/31/2022 8:42:57",
+    "Device": "",
+    "Battery": 3.034,
+    "Relative Humidity": 48.7,
+    "Temperature - SHT (C°)": 20.81,
+    "Temperature - DS (C°)": 20.86
+  },
+  {
+    "Timestamp": "3/31/2022 15:02:57",
+    "Device": "",
+    "Battery": 3.034,
+    "Relative Humidity": 35.7,
+    "Temperature - SHT (C°)": 16,
+    "Temperature - DS (C°)": 19.28
   }
-]
+  ]}
+  
